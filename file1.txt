@@ -1,4 +1,0 @@
-This is File
-email: eyongesi@gmail.com
-username: eyongesi
-password: 
